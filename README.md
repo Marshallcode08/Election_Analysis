@@ -5,7 +5,7 @@ Ryan Marshall
                                             
   **Overview of the Election Audit
   
-    The Purpose of the election audit is to utilize our skills with Python to gather and break down data so that it is well organized. The challenege was to gather data and organize and make it display data so that it easier for others to read. We also had to understand how different files work and how to access them depending on the purpose you need it for. After learning how to access the data in different files and then create list, dictionaries, etc. Once we gather the data and organize it, then we can display the information we want to share.
+   The Purpose of the election audit is to utilize our skills with Python to gather and break down data so that it is well organized. The challenege was to gather data and organize and make it display data so that it easier for others to read. We also had to understand how different files work and how to access them depending on the purpose you need it for. After learning how to access the data in different files and then create list, dictionaries, etc. Once we gather the data and organize it, then we can display the information we want to share.
     
 **Election Results
 
